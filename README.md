@@ -1,6 +1,7 @@
 # Tora_SimpleAudioVisualizer
 
 サムネイル画像と音声ファイルから、円形オーディオビジュアライザー付きのMP4動画を生成するローカルWebアプリです。ブラウザ上で見た目を調整し、短いプレビューを確認してからフル尺の動画を書き出せます。
+<img width="1889" height="883" alt="image" src="https://github.com/user-attachments/assets/a0bbacc2-e584-4b60-a0e2-f08b6f6abf73" />
 
 ## 必要環境
 
